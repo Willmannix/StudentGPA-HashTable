@@ -1,3 +1,3 @@
 # StudentGPA-HashTable
 
-<img src="/image/Hashtable.PNG" alt=""/>
+<img src="/Hashtable.PNG" alt=""/>
